@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Historia del c\IeC {\'a}lculo del valor $\pi $}{3}{0}{1}
+\beamer@sectionintoc {2}{Antiguo Egipto}{4}{0}{2}
+\beamer@sectionintoc {3}{Mesopotamia}{5}{0}{3}
+\beamer@sectionintoc {4}{Caracter\IeC {\'\i }sticas matem\IeC {\'a}ticas}{6}{0}{4}
+\beamer@subsectionintoc {4}{1}{Definiciones}{6}{0}{4}
+\beamer@subsectionintoc {4}{2}{Definiciones}{7}{0}{4}
+\beamer@subsectionintoc {4}{3}{N\IeC {\'u}mero irracional y trascendente}{7}{0}{4}
+\beamer@sectionintoc {5}{\IeC {\'E}poca moderna}{9}{0}{5}
